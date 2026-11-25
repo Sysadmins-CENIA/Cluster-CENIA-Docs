@@ -1,6 +1,6 @@
 # Introducción
 
-Bienvenid@ a la documentación del **Clúster IALab** de CENIA // DCC UC.
+Bienvenid@ a la documentación del **Clúster CENIA** de CENIA. (esto es de prueba)
 
 Aquí encontrarás toda la información necesaria para acceder y hacer uso eficiente de los recursos computacionales disponibles: desde el proceso de registro hasta las guías de uso de SLURM, pasando por las políticas de almacenamiento, las buenas prácticas del clúster y tutoriales.
 
